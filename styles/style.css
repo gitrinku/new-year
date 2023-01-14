@@ -1,3 +1,4 @@
+
 nav li{
     list-style: none;
     margin: 15px 15px;
@@ -189,3 +190,119 @@ width: 450px;
     font-family: 'Work Sans';
 
 }
+.button-second{
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    color: #005FAC;
+    border-radius: 8px;
+    border-color: #fff;
+    width: 126px;
+    height: 43px;
+    background-color: #fff;
+    margin-top: 220px;
+    margin-left: 80px;
+}
+.bodylast{
+    background-image: url(../images/watch.png),url(../images/gradient1.png);
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    margin: 0px 230px;
+    width: 1140px;
+    height: 300px;
+    margin-top: 130px;
+ 
+}
+.bd-title{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 47px;
+color: #fff;
+position: absolute;
+width: 459px;
+height: 94px;
+padding: 64px;
+}
+.footer{
+
+    background: #151414;
+    width: 1600px;
+    height: 577px;
+    display: flex;
+    align-content: space-between;
+    
+
+margin-top: 130px;
+
+}
+.f-title{
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+color: #F8F8F8;
+}
+.footer-first{
+
+    margin-left: 220px;
+    padding-top: 50px;
+    width: 40%;
+    padding-right: 100px;
+    display: inline-block;
+    color: #F8F8F8;
+    font-family: 'Work Sans';
+    width: 485px;
+    height: 78px;
+}
+.f-description{
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+width: 420px;
+height: 40px;
+font-size: 16px;
+}
+
+.footer-second{
+
+    display: inline-block;
+    color: #F8F8F8;
+    font-family: 'Work Sans';
+    padding-top: 55px;
+}
+.box-form{
+
+    border: 1px solid #fff;
+    padding: 10px;
+    border-radius: 4px;
+    width: 260px;
+    font-family: 'Work Sans';
+
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+color: #F3F3F3;
+}
+.subs{
+
+   font-family: 'Work Sans';
+
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    width: 140px;
+    height: 55px;
+    background: #005FAC;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+
